@@ -35,16 +35,9 @@ p {
 
 .section {
     display: flex;
-    background-image: url(/pic/top-banner.png);
+    background-image: url(top-banner.png);
     background-repeat: no-repeat;
 
-}
-
-#kk {
-    background-image: url(/dream-bg.png);
-    background-position: right;
-    background-repeat: no-repeat;
-    background-size: 6%;
 }
 
 .half-width {
@@ -57,6 +50,15 @@ p {
     width: 80%;
     padding-left: 5%;
 }
+
+#kk {
+    background-image: url(dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 6%;
+}
+
+
 
 #Experience {
 
@@ -72,7 +74,7 @@ p {
 }
 
 .section-area {
-    background-image: url(/exp-bg.png);
+    background-image: url(exp-bg.png);
     background-repeat: no-repeat;
     background-position: left center;
     background-size: 6%;
