@@ -1,0 +1,109 @@
+.orange {
+    color: orange;
+
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-style: regular;
+    font-size: 40px;
+}
+
+h3 {
+    font-style: regular;
+    font-size: x-large;
+}
+
+p {
+    font-size: x-large;
+    text-align: justify;
+}
+
+.link-button {
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 30px;
+    border: 3px dotted orange;
+    border-radius: 5px;
+    background-color: orange;
+
+
+}
+
+.section {
+    display: flex;
+    background-image: url(/pic/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+#kk {
+    background-image: url(/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 6%;
+}
+
+.half-width {
+    width: 80%;
+    padding-left: 3%;
+    padding-right: 2%;
+}
+
+.half-width img {
+    width: 80%;
+    padding-left: 5%;
+}
+
+#Experience {
+
+    color: black;
+    font-size: 45px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    padding-left: 3%;
+}
+
+.blog {
+    color: orange;
+}
+
+.section-area {
+    background-image: url(/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 6%;
+}
+
+.section2 {
+
+    display: flex;
+
+}
+
+.Experience-item {
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px gray;
+
+}
+
+#Full-Stack-Web-Developer {
+    border-left: 10px solid tomato;
+}
+
+#Baby-Web-Developer {
+    border-left: 10px solid blue;
+}
+
+footer p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
